@@ -30,7 +30,7 @@ a:hover {
     color: white;
 }
 section {
-    background-color: rgba(224, 255, 255, 0.3);
+    border: 1px #ffffff solid;
     padding: 20px;
     width: 900px;
     height: 500px;
@@ -44,7 +44,7 @@ section {
     width: 500px;
     height: 300px;
     margin-left: 100px;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 #whois {
     position: absolute;
@@ -58,4 +58,6 @@ section {
     height: 50px;
     float: right;
     margin-right: 50px;
+    border: 1px #ffffff solid;
+    padding: 5px;
 }
